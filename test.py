@@ -6,4 +6,5 @@ print("first code")
 # task 2
 
 
+pass
 # task 3
